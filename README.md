@@ -1,4 +1,4 @@
 AuddictiveLearning
 ==================
 
-AndroidApp to teach Sing language.
+AndroidApp to teach Sign language.
